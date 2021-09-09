@@ -4,7 +4,7 @@ public class StudentReport {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String estudiante="Julio Camones R";
+		String estudiante="Julio Camones 20";
 	}
 
 }
